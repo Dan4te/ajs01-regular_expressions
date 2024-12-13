@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/m26qhuxixv9u38xw?svg=true)](https://ci.appveyor.com/project/Dan4te/ajs01-regular-expressions)
+
 # Домашнее задание к лекции «Регулярные выражения»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
